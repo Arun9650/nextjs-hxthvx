@@ -15,7 +15,7 @@ export default function Home() {
 
         <p className={styles.description}>
           Get started by editing{' '}
-          <code className={styles.code}>helo/index.js</code>
+          <code className={styles.code}>ki hal sardat ji </code>
         </p>
 
         <div className={styles.grid}>
